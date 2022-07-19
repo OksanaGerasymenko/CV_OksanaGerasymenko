@@ -152,7 +152,8 @@ nav .logo a:hover{
 .skills{
     background-color: #201A16; 
     color:#DFDAD6;
-    margin-top:20px;      
+    margin-top:20px;  
+    margin-bottom: 20px;    
 }
 .skills-content{     
     height: 60vh;                                  ;
@@ -191,7 +192,7 @@ nav .logo a:hover{
 .footer-container{
 display:flex;
 align-items:center;
-justify-content: space-between;
+justify-content: space-around;
 flex-wrap: nowrap;
 }
 @media (max-width:775px){
